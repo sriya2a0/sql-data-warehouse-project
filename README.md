@@ -76,9 +76,12 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 ## 📬 Connect with Me
-NAME : Sriyaparicha 
-GITHUB : https://github.com/sriya2a0
-LINKEDIN: www.linkedin.com/in/sriyaparicha
----
+
+
+Name: Sriya
+
+GitHub: https://github.com/sriya2a0
+
+LinkedIn: www.linkedin.com/in/sriyaparicha
 
 ⭐ If you found this project useful, feel free to star this repository!
